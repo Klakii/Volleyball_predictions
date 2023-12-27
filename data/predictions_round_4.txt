@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+1952,Skra,4,Lublin,2023/2024,0.50352323,0.49647674,0
+1954,Warsza,4,Barkom,2023/2024,0.18529707,0.8147029,1
+1955,Suwałki,4,Czarni,2023/2024,0.2536229,0.7463771,1
+1956,Aluron,4,GKS,2023/2024,0.30192763,0.6980724,1
+1957,Węgiel,4,Asseco,2023/2024,0.18322402,0.816776,1
+1958,Nysa,4,Indykpol,2023/2024,0.42475975,0.57524025,1

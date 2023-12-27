@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+2022,Czarni,13,Skra,2023/2024,0.21140444,0.78859556,0
+2023,Barkom,13,GKS,2023/2024,0.73589796,0.26410204,1
+2024,Lubin,13,Asseco,2023/2024,0.18784635,0.81215364,0
+2026,Warsza,13,Nysa,2023/2024,0.71583474,0.28416526,1
+2027,Suwałki,13,ZAKSA,2023/2024,0.3566289,0.6433711,0
+2028,Aluron,13,Węgiel,2023/2024,0.21518578,0.78481424,0

@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+1994,Skra,10,Suwałki,2023/2024,0.62169605,0.37830395,1
+1996,Aluron,10,Warsza,2023/2024,0.46804863,0.53195137,0
+1997,ZAKSA,10,Lublin,2023/2024,0.76700854,0.23299146,1
+1998,Nysa,10,Lubin,2023/2024,0.84903103,0.15096897,1
+1999,Indykpol,10,Barkom,2023/2024,0.71207017,0.28792983,1
+2000,Asseco,10,GKS,2023/2024,0.841233,0.15876698,1

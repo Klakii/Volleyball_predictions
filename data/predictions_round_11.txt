@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+2001,GKS,11,Skra,2023/2024,0.23406942,0.7659306,0
+2002,Czarni,11,Asseco,2023/2024,0.12440845,0.8755915,0
+2003,Lubin,11,Indykpol,2023/2024,0.19439167,0.80560833,0
+2004,Lublin,11,Nysa,2023/2024,0.3774748,0.6225252,0
+2006,Warsza,11,Węgiel,2023/2024,0.38239324,0.61760676,0
+2007,Suwałki,11,Aluron,2023/2024,0.21531047,0.78468955,0

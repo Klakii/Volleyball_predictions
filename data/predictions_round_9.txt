@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+1987,Asseco,9,Skra,2023/2024,0.76361287,0.23638713,1
+1988,Czarni,9,Indykpol,2023/2024,0.20970997,0.79029,0
+1989,Barkom,9,Nysa,2023/2024,0.27970636,0.72029364,0
+1990,ZAKSA,9,Lubin,2023/2024,0.80267507,0.19732493,1
+1991,Lublin,9,Węgiel,2023/2024,0.19110326,0.8088967,0
+1993,Warsza,9,Suwałki,2023/2024,0.8133786,0.18662143,1

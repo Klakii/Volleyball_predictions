@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+1980,Skra,8,Warsza,2023/2024,0.15722768,0.8427723,0
+1982,Aluron,8,Lublin,2023/2024,0.6147839,0.38521612,1
+1983,Węgiel,8,Lubin,2023/2024,0.88737875,0.11262125,1
+1984,ZAKSA,8,Barkom,2023/2024,0.79232,0.20767999,1
+1985,Nysa,8,Czarni,2023/2024,0.80674833,0.19325167,1
+1986,Indykpol,8,GKS,2023/2024,0.636791,0.363209,1

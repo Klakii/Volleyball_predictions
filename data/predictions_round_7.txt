@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+1973,Asseco,7,Indykpol,2023/2024,0.7879887,0.21201128,1
+1974,GKS,7,Nysa,2023/2024,0.31265724,0.68734276,0
+1975,Czarni,7,ZAKSA,2023/2024,0.19092904,0.80907094,0
+1976,Barkom,7,Węgiel,2023/2024,0.10840004,0.89159995,0
+1977,Lubin,7,Aluron,2023/2024,0.19412775,0.80587226,0
+1978,Lublin,7,Suwałki,2023/2024,0.7340459,0.26595408,1

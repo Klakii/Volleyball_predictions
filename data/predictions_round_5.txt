@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+1959,Indykpol,5,Skra,2023/2024,0.5268456,0.47315443,0
+1960,Asseco,5,ZAKSA,2023/2024,0.6770667,0.32293335,0
+1961,GKS,5,Węgiel,2023/2024,0.87015826,0.12984176,0
+1962,Czarni,5,Aluron,2023/2024,0.7615328,0.23846725,0
+1963,Barkom,5,Suwałki,2023/2024,0.6775399,0.32246011,0
+1964,Lubin,5,Warsza,2023/2024,0.7924208,0.20757921,0

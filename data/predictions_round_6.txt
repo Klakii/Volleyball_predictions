@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+1967,Warsza,6,Lublin,2023/2024,0.70950395,0.29049605,1
+1968,Suwałki,6,Lubin,2023/2024,0.7445425,0.25545752,1
+1969,Aluron,6,Barkom,2023/2024,0.81341875,0.18658125,1
+1970,Węgiel,6,Czarni,2023/2024,0.86530906,0.13469094,1
+1971,ZAKSA,6,GKS,2023/2024,0.76745397,0.23254603,1
+1972,Nysa,6,Asseco,2023/2024,0.53355944,0.46644056,1

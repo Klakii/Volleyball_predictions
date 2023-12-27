@@ -1,0 +1,7 @@
+,Team_name_home,Round_home,Team_name_away,Year_away,Predicted_probability_home,Predicted_probability_away,Result_(home_team)
+2008,Skra,12,Aluron,2023/2024,0.21057743,0.7894226,0
+2009,Węgiel,12,Suwałki,2023/2024,0.8756549,0.124345124,1
+2010,ZAKSA,12,Warsza,2023/2024,0.1800534,0.8199466,0
+2012,Indykpol,12,Lublin,2023/2024,0.7257708,0.27422923,1
+2013,Asseco,12,Barkom,2023/2024,0.86287177,0.13712823,1
+2014,GKS,12,Czarni,2023/2024,0.47571477,0.5242852,0
