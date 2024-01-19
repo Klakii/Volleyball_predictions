@@ -6,9 +6,6 @@ os.chdir(r'C:\Users\Rodzinka\Desktop\siatka_23')
 # import scrapping functions
 from funs.scrapping import *
 
-# import scrapping functions
-from funs.scrapping import *
-
 # import data preprocessing functions 
 from funs.data_prep import *
 
